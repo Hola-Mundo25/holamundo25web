@@ -50,5 +50,4 @@ Este proyecto consiste en el desarrollo de un sitio web profesional utilizando W
 | Micaela Perez Maggetti | Diseñadora UX/UI | [MicaPerezMagg](https://github.com/MicaPerezMagg) |
 | Ivo Konstantinow | Especialista en Base de Datos | [konstantinowivo](https://github.com/konstantinowivo) |
 
-## Estructura del Sitio
 
