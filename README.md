@@ -21,7 +21,7 @@ Este proyecto consiste en el desarrollo de un sitio web profesional utilizando W
 
 ## ⚠️ Estado Actual del Sitio - ERROR 500 solucionado
 
-**Problema identificado**: El sitio web está mostrando un error 404 (Página no encontrada) en lugar del contenido esperado.
+**Problema identificado**: El sitio web está mostrando un error 500 (Página no encontrada) en lugar del contenido esperado.
 
 **Evidencia del problema**:
 ![Capturas de pantalla del error](https://github.com/Hola-Mundo25/holamundo25web/blob/main/Captura.png)
