@@ -19,7 +19,7 @@ Este proyecto consiste en el desarrollo de un sitio web profesional utilizando W
 - **Usuario administrador**: admin
 - **Contraseña**: holamundo25
 
-## ⚠️ Estado Actual del Sitio - ERROR 500
+## ⚠️ Estado Actual del Sitio - ERROR 500 solucionado
 
 **Problema identificado**: El sitio web está mostrando un error 404 (Página no encontrada) en lugar del contenido esperado.
 
@@ -73,9 +73,6 @@ Este proyecto consiste en el desarrollo de un sitio web profesional utilizando W
 ### Vista Previa (cuando funcionaba)
 ![Vista](https://github.com/Hola-Mundo25/holamundo25web/blob/main/vistaprevia.jpeg)
 
-## Video de la web funcionando recuperado del cache del un celular 
-
-[Link a google fotos](https://photos.app.goo.gl/Cxqv8BpKjqBsGidk7)
 
 
 
