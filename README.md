@@ -2,15 +2,16 @@
 
 ## Descripción del Proyecto
 
-Este proyecto consiste en el desarrollo de un sitio web profesional utilizando WordPress como sistema de gestión de contenidos. El sitio funciona como un portfolio digital que muestra las habilidades, experiencias y servicios de nuestro equipo de desarrollo.
+Este proyecto consiste en el desarrollo de un sitio web profesional utilizando WordPress como sistema de gestión de contenidos,donde el sitio funciona como un portfolio digital grupal, donde se muestran las habilidades técnicas, experiencias y servicios de nuestro equipo de desarrollo web.
 
 **Propósito**: Crear una presencia web profesional que demuestre nuestras competencias técnicas y sirva como plataforma para presentar nuestro trabajo a potenciales clientes o empleadores.
 
 **Utilidad**:
-- Mostrar el perfil profesional del equipo
-- Presentar proyectos y experiencias laborales
-- Facilitar el contacto con potenciales clientes
-- Demostrar conocimientos en tecnologías web modernas
+- Mostrar el perfil profesional del equipo.
+- Presentar proyectos y experiencias laborales.
+- Facilitar el contacto con potenciales clientes.
+- Demostrar conocimientos en tecnologías web modernas.
+- Ofrecer una sección de contacto y una tienda simulada con WooCommerce.
 
 ## Acceso al Sitio
 
@@ -19,20 +20,14 @@ Este proyecto consiste en el desarrollo de un sitio web profesional utilizando W
 - **Usuario administrador**: admin
 - **Contraseña**: holamundo25
 
-## ⚠️ Estado Actual del Sitio - ERROR 500 solucionado
 
-**Problema identificado**: El sitio web está mostrando un error 500 (Página no encontrada) en lugar del contenido esperado.
-
-**Evidencia del problema**:
-![Capturas de pantalla del error](https://github.com/Hola-Mundo25/holamundo25web/blob/main/Captura.png)
+## ⚠️ Estado Actual del Sitio - DOMINIO SUSPENDIDO
 
 **Observaciones**:
-- El error es consistente en diferentes navegadores y dispositivos
-- El panel administrativo de WordPress también es inaccesible
+- El Hosting se encuentra suspenmdido por diferentes restrincciones (límite de CPU, memoria o uso diario).
+- El panel administrativo de WordPress también es inaccesible.
+- Este comportamiento es común en servicios de hosting gratuitos,pero no afecta el contenido del proyecto.
 
-**Posibles causas**:
-1. Problemas de configuración en el hosting InfinityFree
-2. Archivos corruptos o faltantes en la instalación de WordPress
 
 ## Estado del Proyecto
 
@@ -45,7 +40,7 @@ Este proyecto consiste en el desarrollo de un sitio web profesional utilizando W
 - ✅ Documentación inicial
 - ✅ Implementación en hosting InfinityFree
 
-### 📋 Sprint 1 - EN PROGRESO (BLOQUEADO POR ERROR 404)
+### 📋 Sprint 1 - COMPLETADO
 - ✅ Creación de usuarios administradores
 - ✅ Creación de estructura del sitio
 - ✅ Diseño del menú de navegación
@@ -53,25 +48,34 @@ Este proyecto consiste en el desarrollo de un sitio web profesional utilizando W
 - ✅ Implementación de Misión y Visión
 - ✅ Sección "Quienes Aceptan" con integrantes del equipo
 - ✅ Creación de CV individuales para cada integrante
-- 🚧 Integración de CV en submenú de Integrantes
+- ✅ Integración de CV en submenú de Integrantes
+
+### 🧩 Sprint 2 - COMPLETADO
+- ✅ Identificacion de las tecnologías que el grupo conoce: HTML5, CSS3, SQL, WordPress,etc.
+- ✅ Creaciaon subopciones en el menú de Tecnologías para cada tecnología.
+- ✅ Cada tecnología es explicada sobre en qué consiste y para qué sirve.
+- ✅ Categoría "Experiencia" creada.
+- ✅ Redaccion y publicacion de 3 entradas de blog sobre los proyectos académicos del grupo:Desarrollo de Software,Landing Page,Creación de un Sitio Web.
+- ✅ Todas las entradas están asignadas a la categoría "Experiencia".
+- ✅ Etiquetas creadas por tecnología: HTML5, CSS3, SQL, WordPress, Python, Elementor,etc.
+- ✅ Cada entrada del blog tiene al menos una etiqueta correspondiente aplicada.
+- ✅ Tienda creada con 3 productos o servicios simulados relacionados con la agencia.
+- ✅ Productos agregados correctamente y visibles en la sección Tienda.
+
 
 ## Equipo de Desarrollo
 
 | Nombre | Rol | GitHub |
 |--------|-----|--------|
-| Marcos Piza | Scrum Master & Desarrollador Web | Marcos-piza118 |
 | Lisandro Cisterna | Desarrollador Frontend | Lichyyyy |
 | Fernando Cazon | Desarrollador Backend | fercazondev |
-| Micaela Perez Maggetti | Diseñadora UX/UI | MicaPerezMagg |
-| Ivo Konstantinow | Especialista en Base de Datos | konstantinowivo |
+| Ivo Konstantinow | Desarrollador Frontend | konstantinowivo |
+| Janet Pilar Molina| Desarrolladora Web | LindaInfinita10 |
 
-## Capturas de Pantalla
+## Captura de Pantalla
 
-### Error 500 Actual
-![Error 500](https://github.com/Hola-Mundo25/holamundo25web/blob/main/Captura.png)
-
-### Vista Previa (cuando funcionaba)
-![Vista](https://github.com/Hola-Mundo25/holamundo25web/blob/main/vistaprevia.jpeg)
+### Dominio Caido
+![Captura del hosting suspendido](DominioSuspendido.png)
 
 
 
