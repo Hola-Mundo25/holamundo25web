@@ -20,14 +20,15 @@ Este proyecto consiste en el desarrollo de un sitio web profesional utilizando W
 - **Usuario administrador**: admin
 - **Contraseña**: holamundo25
 
-
 ## ⚠️ Estado Actual del Sitio - DOMINIO SUSPENDIDO
+
+**Evidencia del problema**:
+
 
 **Observaciones**:
 - El Hosting se encuentra suspenmdido por diferentes restrincciones (límite de CPU, memoria o uso diario).
 - El panel administrativo de WordPress también es inaccesible.
 - Este comportamiento es común en servicios de hosting gratuitos,pero no afecta el contenido del proyecto.
-
 
 ## Estado del Proyecto
 
@@ -75,7 +76,9 @@ Este proyecto consiste en el desarrollo de un sitio web profesional utilizando W
 ## Captura de Pantalla
 
 ### Dominio Caido
-![Captura del hosting suspendido](DominioSuspendido.png)
+![Error 500](https://github.com/Hola-Mundo25/holamundo25web/blob/main/Captura.png)
+
+
 
 
 
