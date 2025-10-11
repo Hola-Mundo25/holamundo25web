@@ -77,7 +77,10 @@ Este proyecto consiste en el desarrollo de un sitio web profesional utilizando W
 ### Dominio Caido
 ![Hosting Suspendido](https://github.com/Hola-Mundo25/holamundo25web/blob/develop/DominioSuspendido.png.png)
 
+# Estado del Proyecto
 
+A pesar de haber tenido el inconveniente de la suspensión del dominio, logramos resolver el problema y levantar el sitio correctamente.  
+Actualmente, el proyecto se encuentra en funcionamiento y accesible desde su dominio habitual.
 
 
 
